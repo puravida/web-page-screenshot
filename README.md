@@ -44,5 +44,7 @@ call to Snapito. Here is a list of them:
 - **cache**:    How old in seconds the screenshot could be. 0 means indefinetly old (default: 0)
 
 Custom screen sizes require "Custom Browser Resolution" upgrade.
+
 Custom screenshot image sizes require "Full-Length" upgrade.
+
 The cache option is not yet supported.
