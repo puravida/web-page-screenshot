@@ -39,7 +39,7 @@ Take a screenshot
 You can pass a list of options to this method to customize the API
 call to Snapito. Here is a list of them:
 
-- **screen**:   the screen size (viewport): custom screen sizes require "Custom Browser Resolution" upgrade (default: 1024x768)
+- **screen**:   the screen size (viewport): 1024x768 (default: 1024x768)
 - **size**:     the size of the screenshot: 320x200, 200x150, 120x90, 100x75, 90x68, 75x57 (default: 120x90)
 - **cache**:    How old in seconds the screenshot could be. 0 means indefinetly old (default: 0)
 
