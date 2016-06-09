@@ -1,0 +1,27 @@
+{
+  "name": "web-page-screenshot",
+  "version": "0.1.0",
+  "description": "Screenshot Module using ShrinkTheWeb API",
+  "main": "screenshot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repositories": [{
+    "type": "git",
+    "url": "git://github.com/puravida/web-page-screenshot.git"
+  }],
+  "keywords": [
+    "screenshot",
+	"website",
+	"web page",
+    "url",
+    "shrinktheweb",
+    "preview",
+	"snapshot"
+  ],
+  "author": "ShrinkTheWeb <contact873@shrinktheweb.com> (http://www.shrinktheweb.com)",
+  "license": "GPLv3",
+  "dependencies": {
+    "request": "2.12.x"
+  }
+}
